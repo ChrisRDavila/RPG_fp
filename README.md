@@ -1,8 +1,8 @@
-# (Application Name)
+# RPG_fp
 
-#### (Brief Description of Application)
+#### RPG game that uses state and functional programming
 
-#### By (Your Name Here)
+#### By Christopher Davila
 
 ## Technologies Used
 
